@@ -1,0 +1,211 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .overlap-group-wrapper {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 892px;
+    width: 1440px;
+  }
+  
+  .frame .overlap-group {
+    background: linear-gradient(180deg, rgb(181.89, 6.06, 6.06) 0%, rgba(255, 255, 255, 0) 100%);
+    height: 892px;
+    position: relative;
+  }
+  
+  .frame .text-wrapper {
+    color: #000000;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 164px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 52px;
+  }
+  
+  .frame .div {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 849px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 57px;
+  }
+  
+  .frame .text-wrapper-2 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 945px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 57px;
+  }
+  
+  .frame .text-wrapper-3 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 1041px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 57px;
+  }
+  
+  .frame .text-wrapper-4 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 1143px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 57px;
+  }
+  
+  .frame .text-wrapper-5 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 1239px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 57px;
+  }
+  
+  .frame .overlap {
+    height: 761px;
+    left: 164px;
+    position: absolute;
+    top: 131px;
+    width: 1153px;
+  }
+  
+  .frame .overlap-2 {
+    height: 761px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1153px;
+  }
+  
+  .frame .vectary-texture {
+    height: 761px;
+    left: 672px;
+    position: absolute;
+    top: 0;
+    width: 450px;
+  }
+  
+  .frame .h-1 {
+    color: #000000;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 256px;
+    width: 672px;
+  }
+  
+  .frame .bitcoin-perspective {
+    height: 128px;
+    left: 647px;
+    object-fit: cover;
+    position: absolute;
+    top: 317px;
+    width: 118px;
+  }
+  
+  .frame .chart-perspective {
+    height: 128px;
+    left: 861px;
+    object-fit: cover;
+    position: absolute;
+    top: 61px;
+    width: 118px;
+  }
+  
+  .frame .message-perspective {
+    height: 129px;
+    left: 1035px;
+    object-fit: cover;
+    position: absolute;
+    top: 398px;
+    width: 118px;
+  }
+  
+  .frame .shield-perspective {
+    height: 128px;
+    left: 838px;
+    object-fit: cover;
+    position: absolute;
+    top: 571px;
+    width: 118px;
+  }
+  
+  .frame .selamat-datang-di {
+    color: #fe20f5;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 162px;
+  }
+  
+  .frame .text-wrapper-6 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 504px;
+  }
+  
+  .frame .div-wrapper {
+    background-color: #9c20fe;
+    border-radius: 15px;
+    height: 62px;
+    left: 0;
+    position: absolute;
+    top: 558px;
+    width: 194px;
+  }
+  
+  .frame .text-wrapper-7 {
+    color: #000000;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+  }
