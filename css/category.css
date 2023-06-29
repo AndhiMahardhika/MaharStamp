@@ -1,0 +1,86 @@
+.Desktop1 {
+    width: 1440px; 
+    height: 2195px; 
+    position: relative; 
+    background: linear-gradient(0deg, white 0%, white 100%), linear-gradient(0deg, rgba(217, 217, 217, 0.10) 0%, rgba(217, 217, 217, 0.10) 100%);
+}
+.Rectangle1 {
+    width: 1440px; 
+    height: 592px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(253deg, #B60606 0%, rgba(182, 6, 6, 0) 100%);
+}
+.Eclipse {
+    width: 605px; 
+    height: 605px; 
+    left: 931px; 
+    top: -90px; 
+    position: absolute;
+}
+.Eclipse.Ellipse1 {
+    width: 233px; 
+    height: 233px; 
+    left: 372px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%), linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%), linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%); 
+    border-radius: 9999px;
+}
+.Eclipse.Ellipse2 {
+    width: 314px; 
+    height: 314px; 
+    left: 291px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%), linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%), linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%); 
+    border-radius: 9999px;
+}
+.Eclipse.Ellipse3 {
+    width: 448px; 
+    height: 448px; 
+    left: 157px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%), linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%), linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%); 
+    border-radius: 9999px;
+}
+.Eclipse.Ellipse4 {
+    width: 605px; 
+    height: 605px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%), linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%), linear-gradient(0deg, rgba(255, 250.11, 250.11, 0.02) 0%, rgba(255, 250.11, 250.11, 0.02) 100%); 
+    border-radius: 9999px;
+}
+.Title {
+    width: 328px; 
+    height: 132px; 
+    left: 556px; 
+    top: 186px; 
+    position: absolute;
+}
+.text1 {
+    left: 70px; 
+    top: 90px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 14px; 
+    font-family: Poppins; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.text2 {
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Poppins; 
+    font-weight: 700; 
+    word-wrap: break-word;
+}
