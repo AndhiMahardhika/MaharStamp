@@ -1,0 +1,119 @@
+.desktop-3,
+.desktop-3 * {
+  box-sizing: border-box;
+}
+.desktop-3 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1493px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-21 {
+  background: linear-gradient(
+    252.66deg,
+    rgba(182, 6, 6, 1) 0%,
+    rgba(182, 6, 6, 0) 100%
+  );
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.mahar-stamp {
+  color: #000000;
+  text-align: left;
+  font: 700 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 164px;
+  top: 53px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font: 400 14px "Poppins", sans-serif;
+  position: absolute;
+  left: 849px;
+  top: 58px;
+}
+.catalog {
+  color: #000000;
+  text-align: left;
+  font: 400 14px "Poppins", sans-serif;
+  position: absolute;
+  left: 945px;
+  top: 58px;
+}
+.about-us {
+  color: #000000;
+  text-align: left;
+  font: 400 14px "Poppins", sans-serif;
+  position: absolute;
+  left: 1041px;
+  top: 58px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font: 400 14px "Poppins", sans-serif;
+  position: absolute;
+  left: 1143px;
+  top: 58px;
+}
+.login {
+  color: #000000;
+  text-align: left;
+  font: 400 14px "Poppins", sans-serif;
+  position: absolute;
+  left: 1239px;
+  top: 58px;
+}
+.about-us2 {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 796px;
+  top: 205px;
+}
+.we-are-a-store-engaged-in-the-distribution-of-stamp-raw-materials-which-has-been-established-since-2016-and-has-more-than-20-regular-customers {
+  color: #000000;
+  text-align: justified;
+  font: 600 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 796px;
+  top: 295px;
+  width: 517px;
+}
+.logo-here-1 {
+  width: 515px;
+  height: 686px;
+  position: absolute;
+  left: 115px;
+  top: 205px;
+}
+.rectangle-19 {
+  background: #000000;
+  width: 1440px;
+  height: 469px;
+  position: absolute;
+  left: 0px;
+  top: 1024px;
+}
+.rectangle-20 {
+  background: #000000;
+  width: 1238px;
+  height: 44px;
+  position: absolute;
+  left: calc(50% - 619px);
+  top: calc(50% - -632.5px);
+}
+.pt-mahar-stamp-all-right-reserved {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 190px);
+  top: 1406px;
+}
